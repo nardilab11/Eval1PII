@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">p2-u1-eval1</string>
+    <string name="pastel"><b>Pastel de Choclo</b></string>
+    <string name="cazuela"><b>Cazuela</b></string>
+    <string name="comida"><b>Comida</b></string>
+    <string name="propina"><b>Propina</b></string>
+    <string name="total"><b>TOTAL</b></string>
+</resources>
